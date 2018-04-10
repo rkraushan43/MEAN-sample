@@ -1,5 +1,5 @@
 
-## Node Express Mongoose
+## Mongo Express Angular Node
 
 A sample application for building web apps using node, express, mongoose and passport.
 
